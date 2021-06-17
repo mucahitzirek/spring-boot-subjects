@@ -1,0 +1,7 @@
+package com.godoro.springorm.entitiy;
+
+import org.springframework.data.repository.CrudRepository;
+
+public interface CustomerRepository extends CrudRepository<Customer, Long> {
+
+}
