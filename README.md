@@ -1,5 +1,5 @@
 # spring-boot-subjects
 
-#Spring boot detailed subjects
+Spring boot detailed subjects
 
-#Frontend operations done in jsp
+Frontend operations done in jsp
